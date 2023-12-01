@@ -43,7 +43,8 @@ body {
 }
 
 .Pricing-feature-items {
-    border-top: 1px solid #e1f1ff;
+    border-top: 1px solid ;
+    border-image: linear-gradient(to right, rgb(21, 139, 0), rgb(204, 50, 50)) 1;
     padding: 15px 0;
     letter-spacing: 1px;
 }
