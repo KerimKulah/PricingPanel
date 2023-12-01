@@ -25,6 +25,8 @@ body {
     display: flex;
     flex-direction: column;
     padding: 15px 25px;
+    width: 100%;
+    max-width: 960px;
 }
 
 .header {
@@ -79,6 +81,7 @@ body {
 
 .images {
     margin-bottom: 25px;
+    width: 100%;
 }
 
 .pricing-plan {
